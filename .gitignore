@@ -1,0 +1,8 @@
+batch_data_h5py/*
+data_files/*
+fcn_batch_data_h5py/*
+fcn_result/*
+fcn_tmp/*
+for_submit/*
+result/*
+tmp/*
